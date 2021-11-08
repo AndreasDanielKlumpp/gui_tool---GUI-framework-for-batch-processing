@@ -1,4 +1,4 @@
-//gui_tool v0014
+//gui_tool v0035
 
 /*
  * gui_tool - GUI framework for batch processing
