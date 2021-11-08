@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=gui_tool
+Version=0.0.xx
+GenericName=gui_tool
+Comment=gui_tool
+Exec=/home/[user name]/gui_tool/gui_tool %F
+Icon=/home/[user name]/gui_tool/gui_tool
+Categories=gui;tool;
+Keywords=gui;tool;batch;
+Terminal=false
+Type=Application
+Name[en_CA]=gui_tool
