@@ -1,9 +1,5 @@
 v035
-
-## gui_tool - GUI framework for batch processing
-
-Gui framework for batch processing e.g. for batch coversion of multiple files inside of folders and their sub folders
-This example: Batch processing of image files for 4 levels of subfolders: (1) jpg to baseline jpg (non progressive) via jpegtran (2) png to jpg via imagemagick (convert)
+Batch processing of image files for 4 levels of subfolders: (1) jpg to baseline jpg (non progressive) via jpegtran (2) png to jpg via imagemagick (convert)
 
 
 ### Content
